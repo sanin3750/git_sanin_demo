@@ -17,7 +17,7 @@ public class CXFTest {
 //		QueryPortalRolesResp resp = bu.queryPortalRoles(req);
 //		System.out.println(resp.getResultCode());
 //		System.out.println(resp.getRoleList().get(0).getRoleName());
-		
+		//主干主干
 		StringBuffer s = new StringBuffer("123");
 		test(s);
 		System.out.println(s);
